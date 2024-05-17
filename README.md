@@ -6,7 +6,6 @@ This is a branch of the code aiming mainly Jet Flow. To access the main branch o
 [Readthedocs](https://xcompact3d.readthedocs.io/en/latest/)
 
 # Citations
-=============
 1-Laizet S. & Lamballais E., 2009, High-order compact schemes for
 incompressible flows: a simple and efficient method with the quasi-spectral
 accuracy, J. Comp. Phys.,  vol 228 (15), pp 5989-6015
